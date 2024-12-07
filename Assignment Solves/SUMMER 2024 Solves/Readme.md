@@ -4,9 +4,14 @@
 
 Welcome to the GitHub folder for the **PROGRAMMING LANGUAGE I** course, **CSE110**, currently teaching at **Brac University** for the **Summer 2024** semester.
 
-This course is taught in **Java** by our esteemed instructors via **Youtube**:
+This course is taught in **Java** by our esteemed instructors:
 - Theory: **_**
 - Laboratory: **_** & **_**
+- Actually, I learned it myself, reading books. No one spoon fed me.
+## 🕵Find Assignment Solves
+- Summer 2024 | Link: https://github.com/mazidzomader/CSE110-JAVA/tree/main/Assignment%20Solves/SUMMER%202024%20Solves
+## ℹ️ Source
+The learning materials are primarily from a book (Thanks to **Mr. Salman Sayeed Khan** sir for the book) and more.
 
 
 For any inquiries, please feel free to reach out via email.
