@@ -11,7 +11,7 @@ This course is taught in **Java** by our esteemed instructors:
 ## 🕵Find Assignment Solves
 - Summer 2024 | Link: https://github.com/mazidzomader/CSE110-JAVA/tree/main/Assignment%20Solves/SUMMER%202024%20Solves
 ## ℹ️ Source
-The learning materials are primarily from a book (Thanks to **Mr. Salman Sayeed Khan** sir for the book) more.
+The learning materials are primarily from a book (Thanks to **Mr. Salman Sayeed Khan** sir for the book) and more.
 
 
 ## 📝 Message from the Author
